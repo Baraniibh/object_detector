@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and output
+*.log
+*.tmp
+
+# Video or output files
+output/
+input/
+
+# Model weights or cache
+*.pt
+ultralytics/cfg/
+ultralytics/assets/
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Python build
+build/
+dist/
+*.egg-info/yolov5/ 
