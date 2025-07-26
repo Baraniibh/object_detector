@@ -34,3 +34,5 @@ ultralytics/assets/
 build/
 dist/
 *.egg-info/yolov5/ 
+
+yolov5/
