@@ -18,9 +18,6 @@ Thumbs.db
 *.log
 *.tmp
 
-# Video or output files
-output/
-input/
 
 # Model weights or cache
 *.pt
